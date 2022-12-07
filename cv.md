@@ -12,6 +12,7 @@
 * experienced in MS Office ( Word, Excel, Power Point, Outlook), internet research and applications
 * Photoshop
 * Autocad
+* Illustrator 
 # Other skills  
 * customer service drive with outstanding communication and active listening skills; 
 * energetic personality with positive thinking; 
