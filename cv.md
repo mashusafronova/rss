@@ -6,7 +6,8 @@
 # Languages:	
 * English-B2			
 * Italian-B1		
-* Spanish-A2	
+* Spanish-A2
+* German-A2	
 * Russian-native  				
 # Computer knowledge
 * experienced in MS Office ( Word, Excel, Power Point, Outlook), internet research and applications
